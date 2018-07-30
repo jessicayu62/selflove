@@ -75,7 +75,7 @@
 
 /* The dot/bullet/indicator container */
 .dot-container {
-  text-align: center;
+  text-align:center;
   padding: 20px;
 /*  background: #ddd;*/
 }
