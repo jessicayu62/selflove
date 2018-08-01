@@ -1,1 +1,4 @@
-
+body{
+  background: linear-gradient(Pink, white);
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
